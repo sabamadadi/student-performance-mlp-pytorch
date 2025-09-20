@@ -85,7 +85,6 @@ Evaluated performance using **R² score** for both training and test sets.
 
 Repeat for other optimizers and activation functions.
 
----
 
 ---
 
@@ -116,7 +115,6 @@ Several optimizers were tested: **SGD, Adam, Adadelta, ASGD, RMSprop, and Rprop*
 
 📌 **Conclusion**: Adam outperformed all other optimizers, both in terms of convergence speed and predictive accuracy.  
 
----
 
 
 ---
